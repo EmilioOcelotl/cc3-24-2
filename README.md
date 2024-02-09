@@ -5,7 +5,7 @@
 ## Sesiones 
 
 - [x] [Sesión 1 - Introducción y presentación](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s01.md) - 29 enero - 2 de febrero.  
-- [ ] [Sesion 2 - Repaso e introducción a iteraciones](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s01.md) - 05 - 09 enero
+- [ ] [Sesion 2 - Repaso e introducción a iteraciones](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s02.md) - 05 - 09 enero
 
 ## Enlaces 
 
