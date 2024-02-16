@@ -1,3 +1,5 @@
+![portada](https://raw.githubusercontent.com/EmilioOcelotl/cc3-24-2/main/img/banner.png)
+
 # Código creativo: Programación orientada a objetos en el diseño
 
 **Al finalizar el curso el alumno:** Aplicará conocimientos de programación orientada a objetos en Processing para realizar manipulación de imágenes fijas y composiciones animadas.
