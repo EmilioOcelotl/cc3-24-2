@@ -8,11 +8,14 @@
 
 - [x] [Sesión 1 - Introducción y presentación](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s01.md) - 29 enero - 2 de febrero.  
 - [x] [Sesion 2 - Repaso II](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s02.md) - 05 - 09 enero
-- [x] [Sesion 3 - Iteraciones y pequeño ejercicio](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s03.md) - 12 - 16 enero [Código Puntillismo](https://gist.github.com/EmilioOcelotl/2a8d27ecf1e8e833a950a2850a6874ee)
-- [ ] [Sesion 4 - Datos y chatGPT](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s04.md) - 19 - 23 enero
+- [x] [Sesion 3 - Iteraciones y pequeño ejercicio](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s03.md) - 12 - 16 febrero [Código Puntillismo](https://gist.github.com/EmilioOcelotl/2a8d27ecf1e8e833a950a2850a6874ee)
+- [x] [Sesion 4 - Datos y chatGPT](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s04.md) - 19 - 23 febrero
+- [x] [Sesion 5 - Pixeles](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s05.md) 25 - 29 de febrero [Código](https://gist.github.com/EmilioOcelotl/0e88cc423cf594dd6ad1a0028ca93ae0)
+- [ ] [Sesión 6 - Copy](https://github.com/EmilioOcelotl/cc3-24-2/blob/main/doc/s06.md)
 
 ## Enlaces 
 
+- [Images and Pixels by Daniel Shiffman](https://processing.org/tutorials/pixels)
 - [Processing](https://processing.org/)
 - [ChatGPT](https://chat.openai.com/)
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
